@@ -1,7 +1,4 @@
---- README.md
 
-
-+++ README.md
 # API REST - Gerenciamento de Usuários
 
 Uma API RESTful simples para gerenciamento de usuários, construída com **Express** e **TypeScript**.
