@@ -1,0 +1,75 @@
+### Create user 1
+POST http://localhost:3000/api/users
+Content-Type: application/json
+
+{
+  "name": "Maria",
+  "email": "maria@example.com"
+}
+
+### Create user 2
+POST http://localhost:3000/api/users
+Content-Type: application/json
+
+{
+  "name": "Pedro",
+  "email": "pedro@example.com"
+}
+
+### Create user 3
+POST http://localhost:3000/api/users
+Content-Type: application/json
+
+{
+  "name": "Ana",
+  "email": "ana@example.com"
+}
+
+### Create user 4
+POST http://localhost:3000/api/users
+Content-Type: application/json
+
+{
+  "name": "João",
+  "email": "joao@example.com"
+}
+
+### Create user 5
+POST http://localhost:3000/api/users
+Content-Type: application/json
+
+{
+  "name": "Lucas",
+  "email": "lucas@example.com"
+}
+
+### Create user 6
+POST http://localhost:3000/api/users
+Content-Type: application/json
+
+{
+  "name": "Carla",
+  "email": "carla@example.com"
+}
+
+### Create user 7
+POST http://localhost:3000/api/users
+Content-Type: application/json
+
+{
+  "name": "Bruno",
+  "email": "bruno@example.com"
+}
+
+#Create user 8
+POST http://localhost:3000/api/users
+Content-Type: application/json
+{
+    "name": "DrellasAmir",
+    "email": "goatee@muras.com"
+}
+
+### List all users
+GET http://localhost:3000/api/users
+Content-Type: application/json
+
